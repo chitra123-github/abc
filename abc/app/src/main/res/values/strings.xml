@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="admin" translatable="false">Admin</string>
+    <string name="user" translatable="false">User</string>
+    <string name="app_name" translatable="false">"Bus Tracker "</string>
+    <string name="bus_tracking_app" translatable="false">Track Bus</string>
+    <string name="usr" tools:ignore="DuplicateDefinition">Users</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string-array name="STOP">
+        <item>Mulund Depo</item>
+        <item>Mulund Checknaka</item>
+        <item>Vashi depo</item>
+        <item>Vashi Station</item>
+    </string-array>
+    <string-array name="STOP1">
+        <item>Mulund Depo</item>
+        <item>Mulund Checknaka</item>
+        <item>Vashi depo</item>
+        <item>Vashi Station</item>
+    </string-array>
+
+</resources>
